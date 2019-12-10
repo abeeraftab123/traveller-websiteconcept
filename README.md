@@ -1,1 +1,5 @@
-# facelanding
+# A Landing Page for a Travelling Website "Traveller"
+(Prepared for IEEE submissions. Domain: Web Development)
+A Facebook ad landing page is the page that your visitors are taken to after clicking on your ad, and is focused on converting that visitor into a lead or customer. Your landing page (marketing speak) is simply the post-click destination of your Facebook ad.
+The following page focuses on the advertisement of a travelling website "Traveller"
+After clicking its facebook ad the user is redirected to the page "index.html"
