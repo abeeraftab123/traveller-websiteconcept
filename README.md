@@ -9,3 +9,7 @@ The repository consists of 5 HTML files, 1 JavaScript file and 3 CSS files in a 
 # Website Details:
 Open Index.html on browser
 Working Buttons: Signup, Login, Home, About, Contact
+
+# Files included from external sources:
+particles.js
+animate.css
